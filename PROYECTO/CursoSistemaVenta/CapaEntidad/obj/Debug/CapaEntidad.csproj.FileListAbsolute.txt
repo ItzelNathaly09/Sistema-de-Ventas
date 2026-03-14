@@ -1,0 +1,80 @@
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb

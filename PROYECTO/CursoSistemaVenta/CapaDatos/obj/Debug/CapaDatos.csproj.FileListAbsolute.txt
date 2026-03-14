@@ -1,0 +1,169 @@
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb

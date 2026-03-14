@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreportecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\resources\\plantillaventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\resources\\plantillaventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmnegocio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmnegocio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\utilidades\\colorfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\utilidades\\colorfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmdetallecompra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporteventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFBE12-8B37-4CE7-B08B-FAB0E34113FA}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capaentidad\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFBE12-8B37-4CE7-B08B-FAB0E34113FA}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFBE12-8B37-4CE7-B08B-FAB0E34113FA}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capaentidad\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFBE12-8B37-4CE7-B08B-FAB0E34113FA}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA5E691-DB72-49DA-B602-BCC066D0A480}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA5E691-DB72-49DA-B602-BCC066D0A480}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D080CEC-1A60-44A7-89C4-EC3D778C2DD5}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-16T00:06:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReporteCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmReporteCompras.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmReporteCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:41:31.394Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:03.323Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReporteCompras.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmReporteCompras.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmReporteCompras.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAApwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:48:48.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Compra.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Compra.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Compra.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Compra.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:51:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:56:22.03Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAADgv4cBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:36.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:29.528Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:23.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmClientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAEwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:05:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:05:38.769Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCompras.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAqwFEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColorFont.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Utilidades\\ColorFont.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Utilidades\\ColorFont.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Utilidades\\ColorFont.cs",
+              "RelativeToolTip": "CapaPresentacion\\Utilidades\\ColorFont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:31.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlantillaVenta.html",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "RelativeToolTip": "CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-19T16:30:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADgv6cAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:31:46.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmNegocio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.Designer.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmNegocio.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwHIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:32:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:53.044Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAtwJ0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:59:46.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmNegocio.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:21:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmNegocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmNegocio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:45.337Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmReporteVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmReporteVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:01:13.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmReporteVentas.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmReporteVentas.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmReporteVentas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:10:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:02:17.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDetalleVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:59:10.572Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDetalleCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:21.523Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmDetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:59:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProveedores.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:54.649Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmDetalleCompra.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.Designer.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.Designer.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAASwJQBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:58:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:00:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "mdAcercade.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:34:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "mdAcercade.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdAcercade.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:25:49.796Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmReporteVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmReporteVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\frmReporteVentas.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmReporteVentas.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAWwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:18:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:53:41.198Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:54:32.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CN_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Reporte.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaNegocio\\CN_Reporte.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:40:17.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwJoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:57:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CD_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Categoria.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:48:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaEntidad\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaEntidad\\ReporteVenta.cs",
+              "RelativeToolTip": "CapaEntidad\\ReporteVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:37:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReporteCompra.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaEntidad\\ReporteCompra.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\ReporteCompra.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaEntidad\\ReporteCompra.cs",
+              "RelativeToolTip": "CapaEntidad\\ReporteCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:36:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CD_Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Reporte.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Reporte.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaDatos\\CD_Reporte.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Reporte.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:38:11.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\itzel\\Desktop\\3er semestre\\Ing-Soft-2-Proyecto\\Proyecto -  22 video\\PROYECTO\\CursoSistemaVenta\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.Designer.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAowPIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:00:24.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

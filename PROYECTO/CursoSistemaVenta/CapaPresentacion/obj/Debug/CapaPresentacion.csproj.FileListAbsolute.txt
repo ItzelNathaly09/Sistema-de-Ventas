@@ -1,0 +1,1030 @@
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Proyecto - 1 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\Proyecto - 2 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing Soft 2\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Ing-Soft-2-Proyecto-main\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 4 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 5 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 7 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\froyl\Documents\GitHub\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 8 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 9 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 10 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 11 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 12 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 13 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 14 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 15 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 16 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 17 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 18 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto - 19 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  20 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  21 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SistemaVentas.exe.config
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SistemaVentas.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\bin\Debug\SistemaVentas.pdb
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\SistemaVentas.exe
+C:\Users\itzel\Desktop\3er semestre\Ing-Soft-2-Proyecto\Proyecto -  22 video\PROYECTO\CursoSistemaVenta\CapaPresentacion\obj\Debug\SistemaVentas.pdb
