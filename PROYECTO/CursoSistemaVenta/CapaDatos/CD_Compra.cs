@@ -177,7 +177,9 @@ namespace CapaDatos
                     oLista = new List<Detalle_Compra>();
                 }
             }
-            return oLista;
+            return oLista; 
+
+            //Ingeniería de software 3
         }
     }
 }
